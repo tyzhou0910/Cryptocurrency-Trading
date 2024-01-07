@@ -1,2 +1,2 @@
 # Cryptocurrency-Trading
-Artificial Intelligence in Fintech
+Artificial Intelligence in Fintech Course Project
