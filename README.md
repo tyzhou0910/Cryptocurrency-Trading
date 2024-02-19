@@ -1,7 +1,7 @@
 # Cryptocurrency-Trading
 Artificial Intelligence in Fintech Course Project
 
-| Syntax      | Strategy    | Formula  |
+| Category    | Strategy    | Formula  |
 | ----------- | ----------- |----------|
-| Header      | Golden Cross|$$ EWMA(CLose, Window_1)$$|
+| Momentum    | Golden Cross||
 | Paragraph   | Text        ||
